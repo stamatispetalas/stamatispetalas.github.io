@@ -37,8 +37,8 @@ author:
   orcid            : "http://orcid.org/0000-0001-7288-3699"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : Stamatios-Petalas
-  scopus           : 57217033097
+  researchgate     : https://www.researchgate.net/profile/Stamatios-Petalas
+  scopus           : https://www.scopus.com/authid/detail.uri?authorId=57217033097
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

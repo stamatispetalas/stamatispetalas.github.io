@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Stam's Homepage"
+title                    : "Dr. Stamatios Petalas"
 title_separator          : "-"
 name                     : &name "Stamatis Petalas"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "stam.jpg"
   name             : "Stamatios Petalas"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Post-doctoral Researcher in Physical Oceanography"
   location         : "Xànthi, Greece"
   employer         : "Democritus University of Thrace"
   uri              : # URL

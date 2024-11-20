@@ -21,14 +21,14 @@ repository               : "stamatispetalas/stamatispetalas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "stam.jpg"
+  name             : "Stamatios Petalas"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Xànthi"
+  employer         : "Democritus University of Thrace"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "spetalas@affil.duth.gr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

@@ -19,12 +19,12 @@ I do this by configuring hydrodynamic numerical simulations and analyzing their 
 
 Main topics of Interest
 ------
-- Numerical simulations
-- Geophysical fluid dynamics
-- Air-Sea interactions
-- Climate change and variability
-- Extreme events
-- Wave modelling
+- Numerical Simulations
+- Geophysical Fluid Dynamics
+- Coupled Atmosphere-Ocean Dynamics
+- Climate Change & Variability
+- Extreme Events
+- Ocean Waves
 
 Teaching
 ------

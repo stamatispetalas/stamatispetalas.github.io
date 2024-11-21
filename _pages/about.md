@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-| I'm Stamatis, a Researcher at Democritus University of Thrace, Xanthi with affiliation to the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/). | ![](/images/med_final_03.03000.jpg)*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)* |
+![](/images/med_final_03.03000.jpg){: .align-right width="600px"}*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)*
+
+I'm Stamatis, a Researcher at Democritus University of Thrace, Xanthi with affiliation to the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/).
 
 My work and research
 ======

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)](/images/med_final_03.03000.jpg){: .align-right width="300px"}
+![Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)](/images/med_final_03.03000.jpg){: .align-right width="450px"}
 I am a Physical Oceanographer
 
 In my research I study the physical oceanography of the eastern Mediterranean with a special focus on Greek Seas and their interaction with the Black Sea, as well as the ocean influence on local climate and coastal systems through air-sea interactions, sea level rise and wave action. 

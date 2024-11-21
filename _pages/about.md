@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <figure class="inline end" markdown>
-  ![](/images/med_final_03.03000.jpg)
+  ![](images/med_final_03.03000.jpg)
   <figcaption>Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)</figcaption>
 </figure>
 

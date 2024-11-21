@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/med_final_03.03000.jpg)*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)*{: .align-right width="450px"}
+![](/images/med_final_03.03000.jpg){: .align-center width="600px"}*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)*
 
 I'm Stamatis, a Researcher at Democritus University of Thrace, Xanthi with affiliation to the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/).
 
@@ -17,9 +17,9 @@ In my research I study the physical oceanography of the eastern Mediterranean wi
 
 I do this by configuring hydrodynamic numerical simulations and analyzing their results in combination with data from observations. My main interests include Ocean Dynamics, Air-Sea Interactions, Extreme Events, Climate Forecasting, and evaluation of Climate Change, Variability and their impact on systems.
 
-Main topics of Interest
+Main topics of interest
 ------
-- Numerical Simulations
+- Numerical Modelling
 - Geophysical Fluid Dynamics
 - Coupled Atmosphere-Ocean Dynamics
 - Climate Change & Variability
@@ -42,7 +42,7 @@ During the last few years I have provided teaching assistance in the following c
 
 My background and history
 ======
-I received my Ph.D... <!-- from the UC-Berkeley School of Information, my M.A. from the Communication, Culture, and Technology program at Georgetown University, and my B.A. in the Humanities program at the University of Texas at Austin. For just under five years after receiving my Ph.D, I was at the Berkeley Institute for Data Science as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series.-->
+I received my Ph.D from the University of the Aegean, my M.Sc. from Utrecht University... <!-- from the UC-Berkeley School of Information, my M.A. from the Communication, Culture, and Technology program at Georgetown University, and my B.A. in the Humanities program at the University of Texas at Austin. For just under five years after receiving my Ph.D, I was at the Berkeley Institute for Data Science as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series.-->
 
 My intellectual communities
 ======

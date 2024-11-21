@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-| ![](/images/med_final_03.03000.jpg) | 
-|:--:|
-| *Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)* | {: .align-right width="450px"}
+| ![](/images/med_final_03.03000.jpg){: .align-right width="450px"} | 
+|---:|
+| *Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)* | 
 
 I'm Stamatis, a Researcher at Democritus University of Thrace, Xanthi with affiliation to the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/).
 
@@ -28,19 +28,24 @@ Main topics of Interest
 - Extreme events
 - Wave modelling
 
-My Teaching
-======
+Teaching
+------
 During the last few years I have provided teaching assistance in the following courses:
 
-Undergraduate level:
-------
-- Physics
-- Climate Change and the Ocean
+**Undergraduate level:**
+- Introduction to Physics
+- Climate Change & the Ocean
 - Descriptive Oceanography
 - Introduction to Dynamical Oceanography
 - Oceanography of the Mediterranean
 
-Graduate level:
-------
-- Operational Oceanography and Hydroacoustics
+**Graduate level:**
+- Operational Oceanography & Hydroacoustics
 
+My background and history
+======
+I received my Ph.D from the UC-Berkeley School of Information, my M.A. from the Communication, Culture, and Technology program at Georgetown University, and my B.A. in the Humanities program at the University of Texas at Austin. For just under five years after receiving my Ph.D, I was at the Berkeley Institute for Data Science as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series.
+
+My intellectual communities
+======
+I’m a disciplinary nomad, integrating disciplines like computer science, information science, social psychology, and organization/management science with fields like philosophy, sociology, anthropology, and history of science and technology. In terms of academic specialties, I spend a lot of my time in the fields of Science and Technology Studies, Computer-Supported Cooperative Work, and new media / internet studies. Methodologically, while I am trained as a qualitative ethnographer, I also rely on other qualitative, quantitative, and computational methods. I often use more statistical forms of analysis to contextualize and further support more qualitative approaches, frequently collaborating with people from other disciplines. I frequently speak at conferences and events, and I also consult with various groups, organizations, and companies about a wide range of topics.

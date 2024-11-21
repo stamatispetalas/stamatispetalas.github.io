@@ -1,17 +1,19 @@
 ---
 permalink: /
-title: "Welcome to my personal page"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+I am a Physical Oceanographer ![[images/stam.jpg]]
+
 In my research I study the physical oceanography of the eastern Mediterranean with a special focus on Greek Seas and their interaction with the Black Sea, as well as the ocean influence on local climate and coastal systems through air-sea interactions, sea level rise and wave action. 
 
 I do this by configuring hydrodynamic numerical simulations and analyzing their results in combination with data from observations. My main interests include Ocean Dynamics, Air-Sea Interactions, Extreme Events, Climate Forecasting, and evaluation of Climate Change, Variability and their impact on systems.
 
-A data-driven personal website
+Research
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 

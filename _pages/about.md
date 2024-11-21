@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Physical Oceanographer ![[images/stam.jpg]]
+![Illustration of combining vision and language modalities](/images/med_final_03_03000.tif){: .align-right width="300px"}
+I am a Physical Oceanographer
 
 In my research I study the physical oceanography of the eastern Mediterranean with a special focus on Greek Seas and their interaction with the Black Sea, as well as the ocean influence on local climate and coastal systems through air-sea interactions, sea level rise and wave action. 
 

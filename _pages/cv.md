@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
+If the embedded PDF below does not load, you can [download it here](/files/Petalas_CV.pdf).
 
-<embed src="../files/Petalas_CV.pdf" type="application/pdf" frameBorder="0" scrolling="auto" height="100%"
-  width="100%"></embed>
+<embed src="../files/Petalas_CV.pdf" type="application/pdf" width="100%" />

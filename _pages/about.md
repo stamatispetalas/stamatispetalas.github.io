@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Creating an entire ocean out of ones and zeros, and then forcing it to swirl, flow, overturn and move around in your computer is something deeply fascinating and strangely rewarding. Especially when you realize that this newborn digital sibling that came into existence through the study of fluid dynamics, is getting more and more akin to its elder brother - the real ocean.
+Creating an entire ocean out of ones and zeros, and then forcing it to swirl, flow, overturn and move around in your computer is something deeply fascinating and strangely rewarding. Especially when you realize that this newborn digital sibling that came into existence through the study of fluid dynamics, is getting more and more akin to its elder brother --the majestic Ocean.
 
 I'm Stamatis, a postdoc Researcher in Physical Oceanography at Democritus University of Thrace (DUTH), in Xanthi. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/). 
 
@@ -35,7 +35,7 @@ Teaching
 During the last few years I have provided teaching assistance in the following courses:
 
 | **Undergraduate level:** | **Graduate level:** |
-|:--:|:--:|
+|:--|:--|
 | - Introduction to Physics | - Operational Oceanography & Hydroacoustics |
 | - Climate Change & the Ocean |  |
 | - Descriptive Oceanography |  |

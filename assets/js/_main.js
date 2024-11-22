@@ -24,7 +24,7 @@ $(document).ready(function(){
   // FitVids init
   fitvids();
 
-  // Follow menu drop down
+  // Details menu drop down
   $(".author__urls-wrapper button").on("click", function() {
     $(".author__urls").fadeToggle("fast", function() {});
     $(".author__urls-wrapper button").toggleClass("open");

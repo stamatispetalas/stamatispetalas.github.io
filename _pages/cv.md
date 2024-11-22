@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 If the embedded PDF below does not load, you can [download it here](/files/Petalas_CV.pdf).
 
-<embed src="../files/Petalas_CV.pdf" type="application/pdf" width="100%" />
+<embed src="../files/Petalas_CV.pdf" type="application/pdf" height="100%" />

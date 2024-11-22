@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm Stamatis, a postdoc Researcher in Physical Oceanography at Democritus University of Thrace, Xanthi. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/). 
+I'm Stamatis, a postdoc Researcher in Physical Oceanography at Democritus University of Thrace (DUTH), in Xanthi. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/). 
 
-On this site I'm covering most aspects of my academic work and 
+On this site, I'm sharing most aspects of my academic life, writings, 
 
-![](/images/med_final_03.03000.jpg){: .align-center width="600px"}*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)*
+![](/images/med_final_03.03000.jpg){: .align-center width="100%"}*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)*
 
 My work and research
 ======

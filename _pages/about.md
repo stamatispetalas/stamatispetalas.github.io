@@ -9,9 +9,9 @@ redirect_from:
 
 I'm Stamatis, a postdoc Researcher in Physical Oceanography at Democritus University of Thrace (DUTH), in Xanthi. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/). 
 
-This world is full of things to discover
+The discovery of how things work in the physical work is fascinating to me
 
-On this site, I'm sharing my interests, passions and creative endeavours, regarding both my academic life and some of my extra-curricular activities. Have a look around!
+On this site, I'm sharing my interests, passions and creative endeavors, regarding both my academic life and some of my extra-curricular activities. Have a look around!
 
 
 
@@ -36,15 +36,13 @@ Teaching
 ------
 During the last few years I have provided teaching assistance in the following courses:
 
-**Undergraduate level:**
-- Introduction to Physics
-- Climate Change & the Ocean
-- Descriptive Oceanography
-- Introduction to Dynamical Oceanography
-- Oceanography of the Mediterranean
-
-**Graduate level:**
-- Operational Oceanography & Hydroacoustics
+| **Undergraduate level:** | **Graduate level:** |
+|:--:|:--:|
+| - Introduction to Physics | - Operational Oceanography & Hydroacoustics |
+| - Climate Change & the Ocean |  |
+| - Descriptive Oceanography |  |
+| - Introduction to Dynamical Oceanography |  |
+| - Oceanography of the Mediterranean |  |
 
 My background and history
 ======

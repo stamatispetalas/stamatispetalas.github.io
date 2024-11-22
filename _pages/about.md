@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Creating an entire ocean out of ones and zeros, and then forcing it to swirl, flow, overturn and move around in your computer is something deeply fascinating and strangely rewarding. Especially when you realize that this newborn digital sibling that came into existence through the study of fluid dynamics, is getting more and more akin to its elder brother --the majestic Ocean.
+Creating an entire ocean out of ones and zeros, and then forcing it to swirl, flow, overturn and move around in your computer is something deeply fascinating and strangely rewarding. Especially when you realize that this newborn digital sibling that came into existence through the study of fluid dynamics, is getting more and more akin to its elder brother --the real and majestic salty Ocean.
 
 I'm Stamatis, a postdoc Researcher in Physical Oceanography at Democritus University of Thrace (DUTH), in Xanthi. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/). 
 
-On this site, I'm sharing my interests, passions and creative endeavors regarding mainly my academic life, but also including some of my interests outside academia. Have a look around!
+On this site, I'm sharing the interests, passions and creative endeavors of my academic life, without missing out on some flavoring from my every-day-life experiences. Have a look around!
 
 ![](/images/med_final_03.03000.jpg){: .align-center width="100%"}*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)*
 

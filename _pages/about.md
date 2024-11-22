@@ -33,7 +33,7 @@ Main topics of interest
 Teaching
 ------
 During the last few years I have provided teaching assistance in the following courses:
-
+<!--
 | **Undergraduate level:** | **Graduate level:** |
 |:--|:--|
 | - Introduction to Physics | - Operational Oceanography & Hydroacoustics |
@@ -41,7 +41,16 @@ During the last few years I have provided teaching assistance in the following c
 | - Descriptive Oceanography |  |
 | - Introduction to Dynamical Oceanography |  |
 | - Oceanography of the Mediterranean |  |
+-->
+**Undergraduate level:**
+- Introduction to Physics
+- Climate Change & the Ocean
+- Descriptive Oceanography
+- Introduction to Dynamical Oceanography
+- Oceanography of the Mediterranean
 
+**Graduate level:**
+- Operational Oceanography & Hydroacoustics
 
 My background and history
 ======

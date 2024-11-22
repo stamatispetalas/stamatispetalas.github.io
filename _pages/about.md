@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Stamatis, a postdoc Researcher of Physical Oceanography at Democritus University of Thrace, Xanthi. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/). 
+I'm Stamatis, a postdoc Researcher in Physical Oceanography at Democritus University of Thrace, Xanthi. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/). 
 
 On this site I'm covering most aspects of my academic work and 
 

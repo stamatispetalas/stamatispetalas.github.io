@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+Creating an entire ocean out of ones and zeros, and then forcing it to swirl, flow, overturn and move around in your computer is something deeply fascinating and strangely rewarding. Especially when you realize that this newborn digital sibling that came into existence through the study of fluid dynamics, is getting more and more akin to its elder brother - the real ocean.
+
 I'm Stamatis, a postdoc Researcher in Physical Oceanography at Democritus University of Thrace (DUTH), in Xanthi. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/). 
 
-The discovery of how things work in the physical work is fascinating to me
-
-On this site, I'm sharing my interests, passions and creative endeavors, regarding both my academic life and some of my extra-curricular activities. Have a look around!
-
-
+On this site, I'm sharing my interests, passions and creative endeavors regarding mainly my academic life, but also including some of my interests outside academia. Have a look around!
 
 ![](/images/med_final_03.03000.jpg){: .align-center width="100%"}*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)*
 
@@ -46,7 +44,7 @@ During the last few years I have provided teaching assistance in the following c
 
 My background and history
 ======
-I received my Ph.D from the University of the Aegean, my M.Sc. from Utrecht University... <!-- from the UC-Berkeley School of Information, my M.A. from the Communication, Culture, and Technology program at Georgetown University, and my B.A. in the Humanities program at the University of Texas at Austin. For just under five years after receiving my Ph.D, I was at the Berkeley Institute for Data Science as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series.-->
+I received my Ph.D in Physical Oceanography from University of the Aegean, my M.Sc. in Meteorology, Physical Oceanography and Climate from Utrecht University, and my B.Sc. in Physics from Aristotle University of Thessaloniki. <!-- from the UC-Berkeley School of Information, my M.A. from the Communication, Culture, and Technology program at Georgetown University, and my B.A. in the Humanities program at the University of Texas at Austin. For just under five years after receiving my Ph.D, I was at the Berkeley Institute for Data Science as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series.-->
 
 My intellectual communities
 ======

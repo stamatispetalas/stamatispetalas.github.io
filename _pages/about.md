@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Creating an entire ocean out of ones and zeros, and then forcing it to swirl, flow, overturn and move around in your computer is something deeply fascinating and strangely rewarding. Especially when you realize that this newborn digital sibling, that came into existence through the study of fluid dynamics, is getting more and more akin to its elder brother --the majestic salty Ocean.
+Creating an entire ocean out of ones and zeros, and then allowing it to swirl, flow, overturn and move around inside a computer, is a deeply fascinating and strangely rewarding craft. Examining the intimate relationship formed between the atmosphere and the ocean at their meeting point, while devising explanations on the ways their energy and water interactions can affect both of them in unexpected ways and places, is both a scientific venture as well as a philosophical quest. Imagining how two distant, vast bodies of water can use a narrow line-like connection between them, to communicate climate signals to each other, is like tuning in to an internal _ballad of the salty sea_.
 
-I'm Stamatis, a postdoc Researcher in Physical Oceanography at Democritus University of Thrace (DUTH), in Xanthi. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/). 
+Welcome, I'm Stamatis, a Physicist and postdoc Researcher in Physical Oceanography at Democritus University of Thrace (DUTH), in Xanthi, Greece. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/). 
 
-On this site, I'm sharing the interests, passions and creative endeavors of my academic life, without missing out on some flavoring from every-day-life experiences. Have a look around!
+I created this site as a medium to introduce myself and share the interests, passions and creative endeavors of my academic life, while also slipping in flavors of personal experiences. Have a look around!
 
 ![](/images/med_final_03.03000.jpg){: .align-center width="100%"}*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)*
 

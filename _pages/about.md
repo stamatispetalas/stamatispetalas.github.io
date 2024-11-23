@@ -11,7 +11,7 @@ Creating an entire ocean out of ones and zeros, and then allowing it to swirl, f
 
 Welcome, I'm Stamatis, a Physicist and postdoc Researcher in Physical Oceanography at Democritus University of Thrace (DUTH), in Xanthi, Greece. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/). 
 
-I use this site as a medium to introduce myself and share the interests, passions and creative endeavors of my academic life, while also slipping in flavors of personal experiences. Have a look around!
+This site is a medium to introduce myself and share the interests, passions and creative endeavors of my academic life, while also slipping in flavors of personal experiences. Have a look around!
 
 ![](/images/med_final_03.03000.jpg){: .align-center width="100%"}*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)*
 

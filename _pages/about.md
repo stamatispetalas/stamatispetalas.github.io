@@ -11,7 +11,7 @@ Creating an entire ocean out of ones and zeros, and then allowing it to swirl, f
 Examining the intimate relationship formed between the atmosphere and the ocean at their meeting point, while devising explanations on the ways their energy and water interactions can affect both of them in unexpected ways and places, is both a scientific venture as well as a philosophical quest.   
 Contemplating on how two distant, vast bodies of water can use a narrow line-like connection between them, to communicate climate signals to each other, is like tuning in to an internal _ballad of the salty sea_.
 
-Now, the challenging part is doing the above while also delivering useful products and being of service to the community.
+> Now, the challenging part is doing the above while also being of service to the community by delivering useful products.
 
 Welcome, I'm Stamatis, a Physicist and postdoc Researcher in Physical Oceanography at Democritus University of Thrace (DUTH), Xanthi, Greece. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and specifically the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/).
 
@@ -42,15 +42,6 @@ Teaching
 ------
 During the last few years I have provided teaching assistance in the following courses:
 
-<!--
-| **Undergraduate level:** | **Graduate level:** |
-|:--|:--|
-| - Introduction to Physics | - Operational Oceanography & Hydroacoustics |
-| - Climate Change & the Ocean |  |
-| - Descriptive Oceanography |  |
-| - Introduction to Dynamical Oceanography |  |
-| - Oceanography of the Mediterranean |  |
--->
 **Undergraduate level:**
 - Introduction to Physics <!--[Introduction to Physics]](https://stamatispetalas.github.io/Teaching/)-->
 - Climate Change & the Ocean <!--[Climate Change & the Ocean]](https://stamatispetalas.github.io/Teaching/)-->

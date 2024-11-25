@@ -11,13 +11,13 @@ Creating an entire ocean out of ones and zeros, and then allowing it to swirl, f
 Examining the intimate relationship formed between the atmosphere and the ocean at their meeting point, while devising explanations on the ways their energy and water interactions can affect both of them in unexpected ways and places, is both a scientific venture as well as a philosophical quest.   
 Imagining how two distant, vast bodies of water can use a narrow line-like connection between them, to communicate climate signals to each other, is like tuning in to an internal _ballad of the salty sea_.
 
-Now, the challenging part is doing the above while also delivering useful products and being of service to the community.
+Now this sounds good, but the challenging part is doing the above while also delivering useful products and being of service to the community.
 
 Welcome, I'm Stamatis, a Physicist and postdoc Researcher in Physical Oceanography at Democritus University of Thrace (DUTH), Xanthi, Greece. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and specifically the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/).
 
 This site serves as a medium to introduce myself and share the interests, passions and creative endeavors of my academic life, while also slipping in flavors of personal experiences. Have a look around!
 
-![](/images/med_final_03.03000.jpg){: .align-center width="100%"}*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)*
+![](/images/med_final_03.03000.jpg){: .align-center width="100%"}*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)*   
 
 My work and research
 ======
@@ -36,7 +36,8 @@ Main topics of interest
 
 Teaching
 ------
-During the last few years I have provided teaching assistance in the following courses:   
+During the last few years I have provided teaching assistance in the following courses:
+
 <!--
 | **Undergraduate level:** | **Graduate level:** |
 |:--|:--|

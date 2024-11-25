@@ -13,17 +13,17 @@ Contemplating on how two distant, vast bodies of water can use a narrow strait c
 
 > Now, the challenging part is performing the above while being of service to the community by delivering useful and applicable products
 
-Welcome, I'm Stamatis, a Physicist and postdoc Researcher in Physical Oceanography at Democritus University of Thrace (DUTH), Xanthi, Greece. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and specifically the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/).
+Welcome, I'm Stamatis, a Physicist and postdoc Researcher in Oceanography at Democritus University of Thrace (DUTH), Xanthi, Greece. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and specifically the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/).
 
-This website is created in order to serve as a medium for introducing myself and sharing the interests, passions and creative endeavors of my academic life, while also slipping in flavors of personal experiences. Have a look around!
+This website is meant to serve as a medium for introducing myself and sharing the interests, passions and creative endeavors of my academic life, while also slipping in flavors of personal experiences. Have a look around!
 
 ![](/images/med_final_03.03000.jpg){: .align-center width="100%"}*Ocean current flows in the Mediterranean (from NASA/Goddard Space Flight Center Scientific Visualization Studio)*   
 
 My work and research
 ------
-In my oceanographic research I study the physical properties of the eastern Mediterranean with a special focus on Greek Seas and their interaction with neighboring basins, as well as the ocean influence on local climate and coastal systems through air-sea interactions, sea level rise and wave action. I do this by configuring hydrodynamic numerical simulations and analyzing their results in combination with data from observations. 
+In my research I study the physical properties of the eastern Mediterranean with a special focus on Greek Seas and their interaction with neighboring basins, as well as the ocean influence on local climate and coastal systems through air-sea interactions, sea level rise and wave action. I do this by configuring hydrodynamic numerical simulations and analyzing their results in combination with data from observations.
 
-My wider academic research interests extend to anything that has to do with understanding and simplifying complex systems through theory, conceptual modelling, analytical approaches and interpretation of observations. Aside my main work schedule, I usually find comfort in side-projects that I research and study in my free time, some of which I briefly cover here. 
+My wider academic research interests extend to anything that has to do with understanding and simplifying complex systems through theory, conceptual modelling, analytical approaches and interpretation of observations. Aside my main work schedule, I usually find comfort in side-projects that I research and study in my free time, some of which I briefly cover here.
 
 In general, this approach served me well until now
 

@@ -30,26 +30,26 @@ You can find out more about my work in the [Projects](https://stamatispetalas.gi
 -->
 
 **Main topics of interest**
-- Numerical Modelling <!--[Numerical Modelling](https://stamatispetalas.github.io/Projects/)-->
-- Geophysical Fluid Dynamics <!--[Geophysical Fluid Dynamics](https://stamatispetalas.github.io/Projects/)-->
-- Coupled Atmosphere-Ocean Dynamics <!--[Coupled Atmosphere-Ocean Dynamics](https://stamatispetalas.github.io/Projects/)-->
-- Climate Change & Variability <!--[Climate Change & Variability](https://stamatispetalas.github.io/Projects/)-->
-- Extreme Events <!--[Extreme Events](https://stamatispetalas.github.io/Projects/)-->
-- Ocean Waves <!--[Ocean Waves](https://stamatispetalas.github.io/Projects/)-->
+- Numerical Modelling <!--[Numerical Modelling](https://stamatispetalas.github.io/projects/)-->
+- Geophysical Fluid Dynamics <!--[Geophysical Fluid Dynamics](https://stamatispetalas.github.io/projects/)-->
+- Coupled Atmosphere-Ocean Dynamics <!--[Coupled Atmosphere-Ocean Dynamics](https://stamatispetalas.github.io/projects/)-->
+- Climate Change & Variability <!--[Climate Change & Variability](https://stamatispetalas.github.io/projects/)-->
+- Extreme Events <!--[Extreme Events](https://stamatispetalas.github.io/projects/)-->
+- Ocean Waves <!--[Ocean Waves](https://stamatispetalas.github.io/projects/)-->
 
 Teaching
 ------
 During the last few years I have provided teaching assistance in the following courses:
 
 *Undergraduate level:*
-- Introduction to Physics <!--[Introduction to Physics]](https://stamatispetalas.github.io/Teaching/)-->
-- Climate Change & the Ocean <!--[Climate Change & the Ocean]](https://stamatispetalas.github.io/Teaching/)-->
-- Descriptive Oceanography <!--[Descriptive Oceanography]](https://stamatispetalas.github.io/Teaching/)-->
-- Introduction to Dynamical Oceanography <!--[Introduction to Dynamical Oceanography]](https://stamatispetalas.github.io/Teaching/)-->
-- Oceanography of the Mediterranean <!--[Oceanography of the Mediterranean]](https://stamatispetalas.github.io/Teaching/)-->
+- Introduction to Physics <!--[Introduction to Physics]](https://stamatispetalas.github.io/teaching/)-->
+- Climate Change & the Ocean <!--[Climate Change & the Ocean]](https://stamatispetalas.github.io/teaching/)-->
+- Descriptive Oceanography <!--[Descriptive Oceanography]](https://stamatispetalas.github.io/teaching/)-->
+- Introduction to Dynamical Oceanography <!--[Introduction to Dynamical Oceanography]](https://stamatispetalas.github.io/teaching/)-->
+- Oceanography of the Mediterranean <!--[Oceanography of the Mediterranean]](https://stamatispetalas.github.io/teaching/)-->
 
 *Graduate level:*
-- Operational Oceanography & Hydroacoustics <!--[Operational Oceanography & Hydroacoustics]](https://stamatispetalas.github.io/Teaching/)-->
+- Operational Oceanography & Hydroacoustics <!--[Operational Oceanography & Hydroacoustics]](https://stamatispetalas.github.io/teaching/)-->
 
 My background and history
 ------

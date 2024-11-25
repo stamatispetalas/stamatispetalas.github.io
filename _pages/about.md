@@ -11,7 +11,7 @@ Creating an entire ocean out of ones and zeros, and then allowing it to swirl, f
 Examining the intimate relationship formed between the atmosphere and the ocean at their meeting point, while devising explanations on the ways their energy and water interactions can affect both of them in unexpected ways and places, is both a scientific venture as well as a philosophical quest.   
 Imagining how two distant, vast bodies of water can use a narrow line-like connection between them, to communicate climate signals to each other, is like tuning in to an internal _ballad of the salty sea_.
 
-Now this sounds good, but the challenging part is doing the above while also delivering useful products and being of service to the community.
+Now, the challenging part is doing the above while also delivering useful products and being of service to the community.
 
 Welcome, I'm Stamatis, a Physicist and postdoc Researcher in Physical Oceanography at Democritus University of Thrace (DUTH), Xanthi, Greece. My affiliation is with the [Department of Environmental Engineering](https://env.duth.gr/en/) and specifically the [Laboratory of Ecological Engineering & Technology](https://env.duth.gr/en/laboratories/lab5/).
 
@@ -25,14 +25,18 @@ In my research I study the physical oceanography of the eastern Mediterranean wi
 
 I do this by configuring hydrodynamic numerical simulations and analyzing their results in combination with data from observations. My main interests include Ocean Dynamics, Air-Sea Interactions, Extreme Events, Climate Forecasting, and evaluation of Climate Change, Variability and their impact on systems.
 
+<!--
+You can find out more about my work in the [Projects](https://stamatispetalas.github.io/Projects) section, where I provide more information.
+-->
+
 Main topics of interest
 ------
-- Numerical Modelling
-- Geophysical Fluid Dynamics
-- Coupled Atmosphere-Ocean Dynamics
-- Climate Change & Variability
-- Extreme Events
-- Ocean Waves
+- Numerical Modelling <!--[Numerical Modelling](https://stamatispetalas.github.io/Projects/)-->
+- Geophysical Fluid Dynamics <!--[Geophysical Fluid Dynamics](https://stamatispetalas.github.io/Projects/)-->
+- Coupled Atmosphere-Ocean Dynamics <!--[Coupled Atmosphere-Ocean Dynamics](https://stamatispetalas.github.io/Projects/)-->
+- Climate Change & Variability <!--[Climate Change & Variability](https://stamatispetalas.github.io/Projects/)-->
+- Extreme Events <!--[Extreme Events](https://stamatispetalas.github.io/Projects/)-->
+- Ocean Waves <!--[Ocean Waves](https://stamatispetalas.github.io/Projects/)-->
 
 Teaching
 ------
@@ -48,14 +52,14 @@ During the last few years I have provided teaching assistance in the following c
 | - Oceanography of the Mediterranean |  |
 -->
 **Undergraduate level:**
-- Introduction to Physics
-- Climate Change & the Ocean
-- Descriptive Oceanography
-- Introduction to Dynamical Oceanography
-- Oceanography of the Mediterranean
+- Introduction to Physics <!--[Introduction to Physics]](https://stamatispetalas.github.io/Teaching/)-->
+- Climate Change & the Ocean <!--[Climate Change & the Ocean]](https://stamatispetalas.github.io/Teaching/)-->
+- Descriptive Oceanography <!--[Descriptive Oceanography]](https://stamatispetalas.github.io/Teaching/)-->
+- Introduction to Dynamical Oceanography <!--[Introduction to Dynamical Oceanography]](https://stamatispetalas.github.io/Teaching/)-->
+- Oceanography of the Mediterranean <!--[Oceanography of the Mediterranean]](https://stamatispetalas.github.io/Teaching/)-->
 
 **Graduate level:**
-- Operational Oceanography & Hydroacoustics
+- Operational Oceanography & Hydroacoustics <!--[Operational Oceanography & Hydroacoustics]](https://stamatispetalas.github.io/Teaching/)-->
 
 My background and history
 ======

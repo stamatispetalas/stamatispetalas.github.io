@@ -9,7 +9,7 @@ redirect_from:
 
 Creating an entire ocean out of ones and zeros, and then allowing it to swirl, flow, overturn and move around inside a computer, is a deeply fascinating and strangely rewarding craft.   
 Examining the intimate relationship formed between the atmosphere and the ocean at their meeting point, while devising explanations on the ways their energy and water interactions can affect both of them in unexpected ways and places, is both a scientific venture as well as a philosophical quest.   
-Imagining how two distant, vast bodies of water can use a narrow line-like connection between them, to communicate climate signals to each other, is like tuning in to an internal _ballad of the salty sea_.
+Contemplating on how two distant, vast bodies of water can use a narrow line-like connection between them, to communicate climate signals to each other, is like tuning in to an internal _ballad of the salty sea_.
 
 Now, the challenging part is doing the above while also delivering useful products and being of service to the community.
 
@@ -21,12 +21,12 @@ This site serves as a medium to introduce myself and share the interests, passio
 
 My work and research
 ======
-In my research I study the physical oceanography of the eastern Mediterranean with a special focus on Greek Seas and their interaction with the Black Sea, as well as the ocean influence on local climate and coastal systems through air-sea interactions, sea level rise and wave action. 
+In my research I study the physical oceanography of the eastern Mediterranean with a special focus on Greek Seas and their interaction with neighboring basins, as well as the ocean influence on local climate and coastal systems through air-sea interactions, sea level rise and wave action. 
 
 I do this by configuring hydrodynamic numerical simulations and analyzing their results in combination with data from observations. My main interests include Ocean Dynamics, Air-Sea Interactions, Extreme Events, Climate Forecasting, and evaluation of Climate Change, Variability and their impact on systems.
 
 <!--
-You can find out more about my work in the [Projects](https://stamatispetalas.github.io/Projects) section, where I provide more information.
+You can find out more about my work in the [Projects](https://stamatispetalas.github.io/Projects) section, where I provide more information on past and current projects, and some hints on future .
 -->
 
 Main topics of interest

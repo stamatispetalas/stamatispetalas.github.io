@@ -29,7 +29,7 @@ I do this by configuring hydrodynamic numerical simulations and analyzing their 
 You can find out more about my work in the [Projects](https://stamatispetalas.github.io/Projects) section, where I provide more information on past and current projects, and some hints on future .
 -->
 
-**Main topics of interest**
+**Main topics**
 - Numerical Modelling <!--[Numerical Modelling](https://stamatispetalas.github.io/projects/)-->
 - Geophysical Fluid Dynamics <!--[Geophysical Fluid Dynamics](https://stamatispetalas.github.io/projects/)-->
 - Coupled Atmosphere-Ocean Dynamics <!--[Coupled Atmosphere-Ocean Dynamics](https://stamatispetalas.github.io/projects/)-->

@@ -23,9 +23,7 @@ My work and research
 ------
 In my research I study the physical properties of the eastern Mediterranean with a special focus on Greek Seas and their interaction with neighboring basins, as well as the ocean influence on local climate and coastal systems through air-sea interactions, sea level rise and wave action. I do this by configuring hydrodynamic numerical simulations and analyzing their results in combination with data from observations.
 
-My wider academic research interests extend to anything that has to do with understanding and simplifying complex systems through theory, conceptual modelling, analytical approaches and interpretation of observations. Aside my main work schedule, I usually find comfort in side-projects that I research and study in my free time, some of which I briefly cover here.
-
-In general, this approach served me well until now
+My wider academic research interests extend to anything that has to do with understanding and simplifying complex systems through theory, conceptual modelling, analytical approaches and interpretation of observations. Aside my main work, I also enjoy side-projects which I research and study in my free time; I briefly cover some of them here.
 
 <!--
 You can find out more about my work in the [Projects](https://stamatispetalas.github.io/Projects) section, where I provide more information on past and current projects, and some hints on future .
@@ -57,7 +55,13 @@ During the last few years I have provided teaching assistance in the following c
 
 My background and history
 ------
-I received my Ph.D in Physical Oceanography from University of the Aegean, my M.Sc. in Meteorology, Physical Oceanography and Climate from Utrecht University, and my B.Sc. in Physics from Aristotle University of Thessaloniki. <!-- from the UC-Berkeley School of Information, my M.A. from the Communication, Culture, and Technology program at Georgetown University, and my B.A. in the Humanities program at the University of Texas at Austin. For just under five years after receiving my Ph.D, I was at the Berkeley Institute for Data Science as a staff ethnographer. At BIDS, I was first a postdoctoral scholar, then became a principal investigator and led several research and education efforts, including the institute’s Data Science Studies efforts and the Best Practices in Data Science series.-->
+I was born and raised in Alexandroupolis, a town in north-eastern Greece. Upon finishing high school I moved to Thessaloniki to study Physics. I received my B.Sc. from Aristotle University of Thessaloniki (AUTH), with a specialization on Atmospheric Physics. My Bachelor's Thesis was completed under the supervision of prof. Metaxia Manolopoulou at the [Laboratory of Atomic and Nuclear Physics](https://www.physics.auth.gr/en/research_labs/63), on measuring methods in Environmental Radioactivity titled: "_Study on the response of He-3 proportional counter with Monte Carlo methods_".
+
+I then moved to The Netherlands pursuing a M.Sc. degree in Meteorology, Physical Oceanography and Climate at Utrecht University. My Master's Thesis was conducted under the supervision of professors Bart van den Hurk (KNMI) and Aarnout van Delden (UU/IMAU), as an intern at KNMI (the Royal Netherlands Meteorological Institute), with the title: "_Assessing the response of vegetation energy fluxes to heat-waves using the H-TESSEL land surface scheme_".
+
+Right after completing my thesis, I had to return to Greece to complete my mandatory service in the Hellenic Armed Forces, as Crew Managing & Operations Officer (Corporal) in the Corps of Engineers. <!--During my service I went through several schools, from cadet-officer school to a multitude of weapons, mine-warfare & explosives schools.--> When discharged, I moved to my home town where I worked for a couple of years as a physics instructor, providing tutoring services and preparing high-school students for their final-year examinations in Physics and Mathematics.
+
+At that point I moved to Mytilene in Lesvos island, where I did my Ph.D research in Physical Oceanography at the University of the Aegean, under the supervision of professors Elina Tragou (UAegean), Vassilis Zervakis (UAegean) and Elena Xoplaki (University of Giessen). My Ph.D was titled: "_Development of a Hydrodynamic Simulation for the Study of Climate Change and Variability in the Aegean Sea_".
 
 <!-- My intellectual communities
 ------

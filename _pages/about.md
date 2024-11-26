@@ -26,7 +26,7 @@ In my research I study the physical properties of the eastern Mediterranean with
 My wider academic research interests extend to anything that has to do with understanding and simplifying complex systems through theory, conceptual modelling, analytical approaches and interpretation of observations. Aside my main work, I also enjoy side-projects which I research and study in my free time; I briefly cover some of them here.
 
 <!--
-You can find out more about my work in the [Projects](https://stamatispetalas.github.io/Projects) section, where I provide more information on past and current projects, and some hints on future .
+You can find out more about my work in the [Projects](https://stamatispetalas.github.io/Projects) section, where I provide information on past and current projects.
 -->
 
 **Main topics of interest**
@@ -55,7 +55,7 @@ During the last few years I have provided teaching assistance in the following c
 
 My background and history
 ------
-I was born and raised in Alexandroupolis, a town in north-eastern Greece. Upon finishing high school I moved to Thessaloniki to study Physics. I received my B.Sc. from Aristotle University of Thessaloniki (AUTH), with a specialization on Atmospheric Physics. My Bachelor's Thesis was completed under the supervision of prof. Metaxia Manolopoulou at the [Laboratory of Atomic and Nuclear Physics](https://www.physics.auth.gr/en/research_labs/63), on measuring methods in Environmental Radioactivity titled: "_Study on the response of He-3 proportional counter with Monte Carlo methods_".
+I was born and raised in Alexandroupolis, a town in north-eastern Greece. Upon finishing high school I moved to Thessaloniki to study Physics. I received my B.Sc. from Aristotle University of Thessaloniki (AUTH), with a specialization on Atmospheric Physics. My Bachelor's Thesis was completed under the supervision of prof. Metaxia Manolopoulou ([Radiation Physics Group](http://radiation.physics.auth.gr/)) at the [Laboratory of Atomic and Nuclear Physics](https://www.physics.auth.gr/en/research_labs/63), on measuring methods in Environmental Radioactivity titled: "_Study on the response of He-3 proportional counter with Monte Carlo methods_".
 
 I then moved to The Netherlands pursuing a M.Sc. degree in Meteorology, Physical Oceanography and Climate at Utrecht University. My Master's Thesis was conducted under the supervision of professors Bart van den Hurk (KNMI) and Aarnout van Delden (UU/IMAU), as an intern at KNMI (the Royal Netherlands Meteorological Institute), with the title: "_Assessing the response of vegetation energy fluxes to heat-waves using the H-TESSEL land surface scheme_".
 
